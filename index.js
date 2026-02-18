@@ -1,0 +1,2 @@
+
+favouriteMovieGenre("Sci-Fi");
